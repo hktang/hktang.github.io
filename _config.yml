@@ -12,7 +12,7 @@ timezone: Asia/Tokyo
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://lingbox.cn
+url: https://ling-yi.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -81,5 +81,5 @@ theme: fexo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/hktang/ling-yi.git
+  repo: git@github.com:hktang/ling-yi.github.io.git
   branch: master
