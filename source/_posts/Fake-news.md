@@ -28,12 +28,11 @@ date: 2018-06-15 00:11:49
 草字头下的“於”简化为简体的“于”，于是就以讹传讹，
 芋碱酸和驴奶的关联一发不可收拾。
 
-[这个页面](http://elgrecocosmetics.com/donkey-milk-benefits-for-skin-and-hair/)
-说 “Due to the presence of niacin, donkey
+[这个页面][1]说 “Due to the presence of niacin, donkey
 milk results in better metabolism, reduces acidity
 and heart-burns.”其中 Niacin 就是烟碱酸。有意思的是，
-根据[这篇论文](https://hal.archives-ouvertes.fr/hal-01538532/document)，
-驴奶中的烟酸含量并不高于人奶：In donkey milk, with exception for niacin
+根据[这篇论文][2]，驴奶中的烟酸含量并不高于人奶：
+In donkey milk, with exception for niacin
 (vitamin B3), the amount of thiamine (vitamin B1),
 riboflavin (vitamin B2), cobalamin (B3) and
 vitamin C is higher than in human milk (Salimei et al. 2012)。
@@ -46,23 +45,21 @@ vitamin C is higher than in human milk (Salimei et al. 2012)。
 
 鄙人见识浅薄，但一听“埃及皇后时代”、
 “尼罗王妃时代”就觉得是杜撰。始作俑者不得知，
-根据[网上的资料](https://www.google.com/search?q="尼罗王妃")，
+根据[网上的资料][3]，
 这两个时代大部分跟沐浴露营销有关，都讲到埃及人用“沐浴”来护肤。
 此处更进一步，称这两个不存在的时代里人们
 用驴奶沐浴来护肤，令人叹为观止。
 
 诡异的是，确实有文献提到“埃及艳后”克娄巴特拉七世(Cleopatra)
 和古罗马的萨宾娜王妃(Poppaea Sabina)为了保护自己的肌肤而用
-驴奶沐浴。
-比如[这里](https://www.sciencedirect.com/science/article/pii/S1874391911002508)和[这里](https://www.mcgill.ca/oss/article/science-science-everywhere-you-asked/why-did-cleopatra-supposedly-bathe-sour-donkey-milk)。
-回头再看中文材料，退一步说，即使确有人用驴奶沐浴这样的事，
-具体到底是谁，也是不严谨的。
+驴奶沐浴，比如[这里][4]和[这里][5]。回头再看中文材料，退一步说，即使确
+有人用驴奶沐浴这样的事，具体到底是谁，也是不严谨的。
 
 ## 法兰西一世和驴奶
 
 文章声称16世纪的法国法兰西一世（Francis I of France）
 ”一辈子都坚持驴奶强身健体的功效“。似乎法兰西一世和
-驴奶还竟然真有一段故事：根据[这本书](https://books.google.co.jp/books?id=6htCDwAAQBAJ&pg=PT195&lpg=PT195&dq=%22Francis+I+of+France%22+%22donkey+milk%22&source=bl&ots=FeZD3bKYlW&sig=DzrGuaZNZo0kcqyA26JFJEW7k5k&hl=en&sa=X&ved=0ahUKEwiNw9XL5NDbAhVMW7wKHa0-Ay4Q6AEINTAC#v=onepage&q=%22Francis%20I%20of%20France%22%20%22donkey%20milk%22&f=false)的介绍，
+驴奶还竟然真有一段故事：根据[这本书][6]的介绍，
 此君某次病倒后，经医生介绍喝了驴奶，痊愈后每次觉得不舒服都会求助驴奶。
 
 ## 感想
@@ -75,3 +72,10 @@ vitamin C is higher than in human milk (Salimei et al. 2012)。
 
 最后，多亏了这篇犹如莫言小说般荒诞的材料，让我一窥《本草纲目》
 的真面目，更让我更坚定地远离驴奶、阿胶，以及炒作驴子的某企业。
+
+[1]: (http://elgrecocosmetics.com/donkey-milk-benefits-for-skin-and-hair/)
+[2]: (https://hal.archives-ouvertes.fr/hal-01538532/document)
+[3]: (https://www.google.com/search?q="尼罗王妃")
+[4]: (https://www.sciencedirect.com/science/article/pii/S1874391911002508)
+[5]: (https://www.mcgill.ca/oss/article/science-science-everywhere-you-asked/why-did-cleopatra-supposedly-bathe-sour-donkey-milk)
+[6]: (https://books.google.co.jp/books?id=6htCDwAAQBAJ&pg=PT195&lpg=PT195&dq=%22Francis+I+of+France%22+%22donkey+milk%22&source=bl&ots=FeZD3bKYlW&sig=DzrGuaZNZo0kcqyA26JFJEW7k5k&hl=en&sa=X&ved=0ahUKEwiNw9XL5NDbAhVMW7wKHa0-Ay4Q6AEINTAC#v=onepage&q=%22Francis%20I%20of%20France%22%20%22donkey%20milk%22&f=false)
